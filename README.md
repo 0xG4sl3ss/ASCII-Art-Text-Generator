@@ -36,7 +36,7 @@ Transform your text into beautiful ASCII art with multiple font styles, borders,
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/ascii-art-generator.git
+git clone https://github.com/0xG4sl3ss/ascii-art-generator.git
 cd ascii-art-generator
 ```
 

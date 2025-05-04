@@ -76,13 +76,19 @@ python main.py "HELLO" --center
 ```bash
 # Create a fancy banner with shadow
 python main.py "WELCOME" --font banner --border fancy --shadow --center
+```
 
+```bash
 # Save to file
 python main.py "HELLO" --output greeting.txt
+```
 
+```bash
 # See all available fonts
 python main.py --list-fonts
+```
 
+```bash
 # View font demonstrations
 python main.py --demo
 ```

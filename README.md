@@ -49,16 +49,24 @@ cd ascii-art-generator
 ```bash
 # Generate simple ASCII art
 python main.py "HELLO"
+```
 
+```bash
 # Use a different font
 python main.py "HELLO" --font banner
+```
 
+```bash
 # Add a fancy border
 python main.py "HELLO" --border fancy
+```
 
+```bash
 # Add shadow effect
 python main.py "HELLO" --shadow
+```
 
+```bash
 # Center the text
 python main.py "HELLO" --center
 ```
